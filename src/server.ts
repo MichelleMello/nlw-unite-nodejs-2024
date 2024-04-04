@@ -12,6 +12,10 @@ const app =  fastify();
 
 //Semânticas = Significado
 
+//Driver nativo/Query builder/ORM
+
+//
+
 
 //Endereço para o navegador
 app.get("/", () => {
